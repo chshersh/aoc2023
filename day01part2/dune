@@ -1,4 +1,4 @@
 (executable
- (public_name aoc2023)
+ (public_name day01part2)
  (name main)
  )
